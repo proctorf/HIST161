@@ -159,7 +159,8 @@ citations of individual readings in the two readers*.**
 Failure to bring a complete draft to the Paper Workshops will result in
 a **penalty of a full letter grade on the assignment**.
 
-<u>*Primary Source Analyzes*:</u> Your task is to analyze a
+<u>*Primary Source Analyzes*:</u>
+Your task is to analyze a
 primary source (or set of connected sources) in its/their historical
 context and to assess its/their value for your understanding of the past
 in a short (**750 -word max, excluding notes**) paper. Please follow the
@@ -197,7 +198,7 @@ only be answered with other sources, primary or secondary?
 
 **You might start with the format:**
 
-{Author X} wrote {Source Title} in {year} to
+>{Author X} wrote {Source Title} in {year} to
 argue/demonstrate/theorize {some ideas}. {Author X's} ideas provide
 important insight into how {x worked, happened, thought, developed}.
 
@@ -307,7 +308,7 @@ violation of this principle.  Academic honesty, the cornerstone of
 teaching and learning, lays the foundation for lifelong integrity.
 ![](media/image1.jpg){width="1.125in" height="1.65625in"}
 
-Academic dishonesty is, in most cases, intellectual theft. It includes,
+<img src="media/integrity.jpg" alt="Academic Integrity" style="float: left; margin-right: 15px; margin-bottom: 10px; max-width: 200px;">Academic dishonesty is, in most cases, intellectual theft. It includes,
 but is not limited to, providing or receiving assistance in a manner not
 authorized by the instructor in the creation of work to be submitted for
 evaluation. This standard applies to all work ranging from daily
@@ -359,8 +360,8 @@ presentations, and to help devising ways to develop and effectively use
 all your skills in English. You can email her at thayerk\@denison.edu to
 schedule an appointment.
 
-**[The course adheres to Denison's Academic Credit
-Policy]{.underline}.** Significant feedback on writing is a core
+**<u>The course adheres to Denison's Academic Credit
+Policy</u>** Significant feedback on writing is a core
 component of this course. Students are expected to review instructor
 feedback and reflect on how to incorporate that into their future work.
 Students will be required to complete pre- or post-writing assignments
@@ -371,53 +372,24 @@ please turn off and put away your phones. Any student found using any
 form of social media on their phones during class will be asked to
 leave. Computers may not be used in class.
 
-+----------------------------------------------------------------------+
-| AI Statement -                                                       |
-|                                                                      |
-| The development of generative AI chatbots like ChatGPT and Bard are  |
-| transforming the landscape of higher education. With that reality in |
-| mind, here are some guiding principles for the use of AI **in our    |
-| course** (other faculty may have different policies, and it is YOUR  |
-| responsibility to know what each of your professors determine is the |
-| acceptable and ethical use of AI in their courses).                  |
-|                                                                      |
-| -   RECOGNIZE that my primary interest is to know what YOU THINK     |
-|     > about the materials I have assigned. (I don't care what a      |
-|     > computer might produce as representing the "hive mind" or      |
-|     > "groupthink " best answer to a question based on what others   |
-|     > have written.)                                                 |
-|                                                                      |
-|     -   AI might be appropriate as a piece of the process of         |
-|         > identifying a topic and theme to write your papers on. It  |
-|         > might be helpful to identify the author and their          |
-|         > historical context to better understand your source(s).    |
-|         > But, it **should not be used** to produce the final        |
-|         > product (Please don't ask AI to "write a paper" for you,   |
-|         > you're only cheating yourself)                             |
-|                                                                      |
-|     -   If you consult AI, Academic Integrity requires that you      |
-|         > ACKNOWLEDGE such use to your readers. Do so in a footnote. |
-|         > In a sentence, explain your use of AI and identify the     |
-|         > tool(s) you consulted.                                     |
-|                                                                      |
-|         -   Do not CITE AI. Citations are meant to identify the work |
-|             > of other humans that you have consulted, and to        |
-|             > provide a clear path to your evidence for your readers |
-|             > should they want to consult it themselves. AI-produced |
-|             > information is not reproducible, and thus is not a     |
-|             > valid source.                                          |
-|                                                                      |
-| -   DO NOT input/upload any personal information to AI. Do not       |
-|     > provide your D\#, SSN\#, Passport\#, Slayter box \#, telephone |
-|     > number, etc. to AI                                             |
-|                                                                      |
-| -   DO NOT *UPLOAD* any course materials or assigned reading to AI.  |
-|     > Doing so may violate the Denison Code of Academic Integrity    |
-|     > and Federal Copyright Law.                                     |
-+----------------------------------------------------------------------+
+## AI Statement
 
-# HIST161 Course Calendar - Fall 2025
-*History 161 -- The Atlantic World, 1492-1888*
+The development of generative AI chatbots like ChatGPT and Bard are transforming the landscape of higher education. With that reality in mind, here are some guiding principles for the use of AI **in our course** (other faculty may have different policies, and it is YOUR responsibility to know what each of your professors determine is the acceptable and ethical use of AI in their courses).
+
+- **RECOGNIZE that my primary interest is to know what YOU THINK** about the materials I have assigned. (I don't care what a computer might produce as representing the "hive mind" or "groupthink" best answer to a question based on what others have written.)
+
+  - AI might be appropriate as a piece of the process of identifying a topic and theme to write your papers on. It might be helpful to identify the author and their historical context to better understand your source(s). But, it **should not be used** to produce the final product (Please don't ask AI to "write a paper" for you, you're only cheating yourself)
+
+  - If you consult AI, Academic Integrity requires that you **ACKNOWLEDGE** such use to your readers. Do so in a footnote. In a sentence, explain your use of AI and identify the tool(s) you consulted.
+
+    - Do not CITE AI. Citations are meant to identify the work of other humans that you have consulted, and to provide a clear path to your evidence for your readers should they want to consult it themselves. AI-produced information is not reproducible, and thus is not a valid source.
+
+- **DO NOT** input/upload any personal information to AI. Do not provide your D#, SSN#, Passport#, Slayter box #, telephone number, etc. to AI
+
+- **DO NOT** *UPLOAD* any course materials or assigned reading to AI. Doing so may violate the Denison Code of Academic Integrity and Federal Copyright Law.
+
+# Weekly Schedule (Subject to Change)
+
 
 ## Week 1 (August 29 - September 1)
 
