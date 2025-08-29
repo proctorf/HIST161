@@ -69,7 +69,10 @@
 
 **The "Black Legend": Northern Europe's Challenge to Iberia**
 
-**Recommended Reading:** Egerton, et. al., *The Atlantic World*, 115-147
+- <a href="https://drive.google.com/file/d/1w_swLqX8Q96TNxLqkUOhDnga0S3VmxOd/view?usp=sharing" target="_blank">"Jean de Lèry, Michel de Montaigne, Walter Ralegh, Increase Mather, and Paul le Jeune</a> from Major Problems in Atlantic History (Belmont, CA: Wadsworth, Cengage Learning, 2008), 97-104, 106-109.
+- Richard Hakluyt (the Younger), <a href="https://drive.google.com/file/d/1PMV1KWbDREJEqoKM5H_3p0oczNYIrbkd/view?usp=sharing" target="_blank">“Discourse of Western Planting (1584),”</a> from Envisioning America: English Plans for the colonization of North America, 1580-1640, Peter Mancall, ed. (Boston: Bedford/St. Martin’s, 1995), 45-50.
+
+- **Recommended Reading:** Egerton, et. al., *The Atlantic World*, 115-147
 
 ---
 
@@ -90,12 +93,17 @@
 **English/French Views/Justifications for Colonialism**
 
 **Readings:**
-- Sections from Michel Montaigne, <a href="https://docs.google.com/document/d/1zS4wUbSQh7PMWOFW_C4NXby_EVc0jLi-arGkHiubTkE/edit?usp=sharing" target="_blank">"On the Cannibals"</a>, Translated by Ian Johnston
+
 - Sections from John Locke, "Chapter V: On Property" from *Second Treatise on Government* (1690) available <a href="https://drive.google.com/file/d/1RBp5bHuTtD6NfaNR82I3s1l-oFrP_FeK/view?usp=drive_link" target="_blank">here</a>
 
-**For Fun:** Use a Generative AI chatbot such as ChatGPT 3.5 or Bard to answer the following questions:
+**For Funnzies:** Use a Generative AI chatbot such as ChatGPT 4.0, Gemini, or Claude answer the following questions:
 - What is the basic argument of John Locke's "On Property"?
 - What historical processes was John Locke engaging in "On Property"?
+- Is there anything about Locke's background that would help us understand "On Property"?
+
+**More Readings**
+- “John Winthrop Defends the Right of Puritans to Settle on Indian Land, England, 1629,” *Historytools.davidvoelker.com* (Accessed 8/28/25) http://historytools.davidjvoelker.com/sources/winthrop-land.pdf
+- “The Taking of Indian Lands: Perspectives of Native Americans and European Americans, 1707-1765,” *National Humanities Center* http://nationalhumanitiescenter.org/pds/becomingamer/growth/text7/indianlands.pdf (accessed 08/28/25)
 
 ### Friday, September 19
 
@@ -117,12 +125,14 @@
 **Readings:**
 - *Atlantic Lives*, 31-45.
 
+## Unit 2 -- Atlantic Exchange and Economies
+
 ### Wednesday, September 24
 
 **Columbian Exchange I**
 
 **Readings:**
-- <a href="https://drive.google.com/file/d/1uPafQj7sgvHdZCiuZGWDsaVfV64jfHN1/view?usp=sharing" target="_blank">*Atlantic Lives*</a>, 17-29.
+- *Atlantic Lives*, 17-29.
 - <a href="https://drive.google.com/file/d/15GF0S0SbLza5dHPtnPm6wNDmMWVq_FJF/view?usp=sharing" target="_blank">Jose de Acosta, Henry Lefory, John Winthrop, William Bradford, Rueben Gold Thwaites, and Nathaniel Shurtleff</a>, from *Major Problems in Atlantic History*, 124-135.
 
 **Recommended Reading:** Egerton, et. al., *The Atlantic World*, 217-251
@@ -136,8 +146,6 @@
 - TBD Primary Sources
 
 ---
-
-## Unit 2 -- Atlantic Exchange and Economies
 
 ## Week 6 (September 29 - October 3)
 
@@ -174,30 +182,22 @@
 
 ### Monday, October 6
 
+***NO CLASS***
+
+**DUE: Primary Source Analysis #2**
+
+### Wednesday, October 8
 **Atlantic Economies -- Trade and Consumption IV**
 
 **Readings:**
 - Londa Scheibinger, <a href="http://denison.idm.oclc.org/login?url=https://www.jstor.org/stable/4598938" target="_blank">"Agnotology and Exotic Abortifacients: The Cultural Production of Ignorance in the Eighteenth-Century Atlantic"</a>, *Proceedings of the American Philosophical Society*, 149:3. 316-343.
 
-**DUE: Primary Source Analysis #2**
 
-### Wednesday, October 8
-
+### Friday, October 10
 **Atlantic Economies -- Trade and Consumption V**
 
 **Readings:**
 - David Hancock, <a href="http://denison.idm.oclc.org/login?url=https://www.jstor.org/stable/207043" target="_blank">"Commerce and Conversation in the Eighteenth-century Atlantic: The Invention of Madeira Wine"</a>, *The Journal of Interdisciplinary History* 29:2 (1998), 197-219.
-
-### Friday, October 10
-
-**West Africa and the Slave Trade I**
-
-**Readings:**
-- *Atlantic Lives*, 65-82. [Please note that two of the authors, Park and Falconbridge, appear in both readings. I apologize for any repetition, but the readings also cover different material]
-- <a href="https://drive.google.com/file/d/1yBL1jVToBc5YN-qGfTgs-_RsV2jL4CXk/view?usp=sharing" target="_blank">"Sources of slaves for the Royal African Company (1678)", "They voyage of the *Hannibal* carrying slaves from West Africa to Barbados (1693-94)", "Willem Bosman describes the Dutch trade for slaves on the West African coast (1704)", "Alexander Falconbridge described his experiences as a physician on slave ships (1788)", "Mungo Park describes taking slaves from the interior of Africa to the coast"</a>, *Africa and the West: A Documentary History*, 2nd ed, edited by William H Worger, Nancy L. Clark, and Edward A. Alpers (New York: Oxford University Press, 2010): 35-36, 43-51, 69-73 & 85-94 [Pay special attention to the sources I am asking you to read, there are snippets of others in the pdf you are not responsible for]
-
-**Recommended Reading:** Egerton, et. al., *The Atlantic World*, 185-202
-
 ---
 
 ## Week 8 (October 13 - October 17)
@@ -208,9 +208,10 @@
 
 **Readings:**
 - *Atlantic Lives*, 65-82. [Please note that two of the authors, Park and Falconbridge, appear in both readings. I apologize for any repetition, but the readings also cover different material]
-- "Sources of slaves for the Royal African Company (1678)", "They voyage of the *Hannibal* carrying slaves from West Africa to Barbados (1693-94)", "Willem Bosman describes the Dutch trade for slaves on the West African coast (1704)", "Alexander Falconbridge described his experiences as a physician on slave ships (1788)", "Mungo Park describes taking slaves from the interior of Africa to the coast," *Africa and the West: A Documentary History*, 2nd ed, edited by William H Worger, Nancy L. Clark, and Edward A. Alpers (New York: Oxford University Press, 2010): 35-36, 43-51, 69-73 & 85-94 [Pay special attention to the sources I am asking you to read, there are snippets of others in the pdf you are not responsible for]
+- <a href="https://drive.google.com/file/d/1yBL1jVToBc5YN-qGfTgs-_RsV2jL4CXk/view?usp=sharing" target="_blank">"Sources of slaves for the Royal African Company (1678)", "They voyage of the *Hannibal* carrying slaves from West Africa to Barbados (1693-94)", "Willem Bosman describes the Dutch trade for slaves on the West African coast (1704)", "Alexander Falconbridge described his experiences as a physician on slave ships (1788)", "Mungo Park describes taking slaves from the interior of Africa to the coast"</a>, *Africa and the West: A Documentary History*, 2nd ed, edited by William H Worger, Nancy L. Clark, and Edward A. Alpers (New York: Oxford University Press, 2010): 35-36, 43-51, 69-73 & 85-94 [Pay special attention to the sources I am asking you to read, there are snippets of others in the pdf you are not responsible for]
 
 **Recommended Reading:** Egerton, et. al., *The Atlantic World*, 185-202
+
 
 ### Wednesday, October 15
 
@@ -228,13 +229,13 @@
 
 ### Monday, October 20
 
-**West Africa and the Slave Trade I (Central Africa)**
+**West Africa and the Slave Trade I I(Central Africa)**
 
 **Readings TBD**
 
 ### Wednesday, October 22
 
-**West Africa and the Slave Trade II (The Bights)**
+**West Africa and the Slave Trade III (The Bights)**
 
 **Readings:**
 - Randy Sparks, *The Two Princes of Calabar: An Eighteenth-Century Atlantic Odyssey* (Cambridge: Harvard University Press, 2004), 1-69.
@@ -383,6 +384,15 @@
 
 ### Monday, December 1
 
+
+
+
+
+### Wednesday, December 3
+
+**DUE: Interpretive Essay - "Race and Racism" #2**
+
+### Friday, December 5
 **Age of Revolution I**
 
 **Readings:**
@@ -391,10 +401,12 @@
 
 **Recommended Reading:** Egerton, et. al., *The Atlantic World*, 361-389.
 
-**DUE: Interpretive Essay - "Race and Racism" #2**
 
-### Wednesday, December 3
+---
 
+## Week 15 (December 8 - December 12)
+
+### Monday, December 8
 **Age of Revolution II**
 
 **Readings:**
@@ -403,7 +415,8 @@
 
 **Recommended Reading:** Egerton, et. al., *The Atlantic World*, 391-414.
 
-### Friday, December 5
+
+### Wednesday, December 10
 
 **The Lasting Legacy?**
 
@@ -411,23 +424,11 @@
 - <a href="https://drive.google.com/file/d/1hieezjQhw62-r9gR6EuKMt4HaLR8WbAl/view?usp=sharing" target="_blank">"Thomas Jefferson Wrestles with Slavery, 1785," and Alexis de Tocqueville "Advocates Emancipation in the French West Indies, 1843,"</a> in *Major Problems in Atlantic History*, Alison Games and Adam Rothman, eds., (Belmont, CA: Wadsworth Cengage, 2008), 386-88 and 395-97.
 - <a href="https://drive.google.com/file/d/1x2Nwwghc07OqaCYr2XGt5b_CaYAhwJPz/view?usp=sharing" target="_blank">*Atlantic Lives*</a>, 194-211.
 
----
-
-## Week 15 (December 8 - December 12)
-
-### Monday, December 8
+### Friday, December 12
 
 **Wrap-up**
 
 ***Course Evaluations: Please Bring Computers to Class***
-
-### Wednesday, December 10
-
-**Final Presentations**
-
-### Friday, December 12
-
-**Final Presentations**
 
 ---
 
