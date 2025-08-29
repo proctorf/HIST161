@@ -18,6 +18,8 @@
 **Readings:**
 - John Arnold, <a href="https://doi.org/10.1093/actrade/9780192853523.001.0001" target="_blank">*History: A Very Short Introduction*</a> (Oxford: Oxford University Press, 2000), 1-14, 110-124. (Download and print CH 1 & 7)
 
+**Assignment** [Reading Response Discussion Board](https://denison.instructure.com/courses/16231/assignments/153103)
+
 ### Wednesday, September 3
 
 **What is Atlantic World History?**
