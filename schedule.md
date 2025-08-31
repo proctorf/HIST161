@@ -27,6 +27,8 @@
 **Readings:**
 - Bernard Bailyn, selections from <a href="https://drive.google.com/file/d/1N5lWfDBOsUTaYWOoSzwP2hSbFbOu_G41/view?usp=sharing" target="_blank">"On the Contours of Atlantic History"</a> in *Atlantic History: Concepts and Contours* (Cambridge, MA: Harvard Univ Press, 2005).
 
+**Assignment**[Reading Response for Bernard Bailyn](https://denison.instructure.com/courses/16231/assignments/153104)
+
 ### Friday, September 5
 
 **Initial Encounters**
