@@ -34,7 +34,7 @@
 **Initial Encounters**
 
 **Readings:**
-- *Atlantic Lives*, 5-15.
+- *Atlantic Lives*, 5-13 (and see the questions on pgs 14-15).
 - Leo Garofalo, <a href="https://drive.google.com/file/d/1FOE9QVksxDNkzLLYnZqZb45rEk6Pfyb9/view?usp=sharing" target="_blank">"Christopher Columbus Evaluates Indigenous Societies"</a>, in *Documenting Latin America: Gender, Race, and Empire*, Erin O'Connor and Leo J. Garofalo, eds. (Boston: Pearson Education, Inc., 2011), 6-15
 - Margarita Zamora, <a href="https://drive.google.com/file/d/1NKNMe_2JoNBAJFGFpPEZmJIf_IM_lsFY/view?usp=sharing" target="_blank">"Christopher Columbus's 'Letter to the Sovereigns': Announcing the Discovery"</a>, in *New World Encounters*, Stephen Greenblatt, ed., (Berkeley: Univ. of California Press, 1993): 3-8 + notes
 
