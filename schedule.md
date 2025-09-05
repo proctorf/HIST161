@@ -63,18 +63,14 @@
 
 **Recommended Reading:** Egerton, et. al., *The Atlantic World*, 77-114, 150-161.
 
-### Wednesday, September 10
+### Friday, September 12
 
 **Writing Workshop -- Explicating Evidence**
 
 **DUE: Full Draft of Primary Source Analysis #1**
 
-### Friday, September 12
-
-**The "Black Legend": Northern Europe's Challenge to Iberia**
-
 - <a href="https://drive.google.com/file/d/1w_swLqX8Q96TNxLqkUOhDnga0S3VmxOd/view?usp=sharing" target="_blank">"Jean de Lèry, Michel de Montaigne, Walter Ralegh, Increase Mather, and Paul le Jeune</a> from Major Problems in Atlantic History (Belmont, CA: Wadsworth, Cengage Learning, 2008), 97-104, 106-109.
-- Richard Hakluyt (the Younger), <a href="https://drive.google.com/file/d/1PMV1KWbDREJEqoKM5H_3p0oczNYIrbkd/view?usp=sharing" target="_blank">“Discourse of Western Planting (1584),”</a> from Envisioning America: English Plans for the colonization of North America, 1580-1640, Peter Mancall, ed. (Boston: Bedford/St. Martin’s, 1995), 45-50.
+- Richard Hakluyt (the Younger), <a href="https://drive.google.com/file/d/1PMV1KWbDREJEqoKM5H_3p0oczNYIrbkd/view?usp=sharing" target="_blank">“Discourse of Western Planting (1584),”</a> from *Envisioning America: English Plans for the colonization of North America, 1580-1640,* Peter Mancall, ed. (Boston: Bedford/St. Martin’s, 1995), 45-50.
 
 - **Recommended Reading:** Egerton, et. al., *The Atlantic World*, 115-147
 
@@ -87,8 +83,8 @@
 **English Justifications for Colonialism**
 
 **Readings:**
-- <a href="https://drive.google.com/file/d/1w_swLqX8Q96TNxLqkUOhDnga0S3VmxOd/view?usp=sharing" target="_blank">Jean de Lèry, Michel de Montaigne, Walter Ralegh, Increase Mather, and Paul le Jeune</a> from Major Problems in Atlantic History (Belmont, CA: Wadsworth, Cengage Learning, 2008), 97-104, 106-109.
-- Richard Hakluyt (the Younger), <a href="https://drive.google.com/file/d/1PMV1KWbDREJEqoKM5H_3p0oczNYIrbkd/view?usp=sharing" target="_blank">"Discourse of Western Planting (1584)"</a> from Envisioning America: English Plans for the colonization of North America, 1580-1640, Peter Mancall, ed. (Boston: Bedford/St. Martin's, 1995), 45-50.
+- <a href="https://drive.google.com/file/d/1w_swLqX8Q96TNxLqkUOhDnga0S3VmxOd/view?usp=sharing" target="_blank">Jean de Lèry, Michel de Montaigne, Walter Ralegh, Increase Mather, and Paul le Jeune</a> from *Major Problems in Atlantic History* (Belmont, CA: Wadsworth, Cengage Learning, 2008), 97-104, 106-109.
+- Richard Hakluyt (the Younger), <a href="https://drive.google.com/file/d/1PMV1KWbDREJEqoKM5H_3p0oczNYIrbkd/view?usp=sharing" target="_blank">"Discourse of Western Planting (1584)"</a> from *Envisioning America: English Plans for the colonization of North America, 1580-1640,* Peter Mancall, ed. (Boston: Bedford/St. Martin's, 1995), 45-50.
 
 **DUE: Revision of Primary Source Analysis #1**
 
@@ -201,6 +197,7 @@
 **Atlantic Economies -- Trade and Consumption V**
 
 **Readings:**
+
 - David Hancock, <a href="http://denison.idm.oclc.org/login?url=https://www.jstor.org/stable/207043" target="_blank">"Commerce and Conversation in the Eighteenth-century Atlantic: The Invention of Madeira Wine"</a>, *The Journal of Interdisciplinary History* 29:2 (1998), 197-219.
 ---
 
@@ -365,14 +362,7 @@
 
 ### Friday, November 21
 
-**Anti-Slavery I - The Slave Trade**
-
-**Readings:**
-- <a href="https://www.loc.gov/resource/rbpe.14000200/?st=text" target="_blank">Germantown Friends' protest against slavery (1688)</a>
-- William Snelgrave, excerpts from <a href="https://drive.google.com/file/d/1JxWSrqyz1G1ZuGphf3qFt5iKTELkubto/view?usp=sharing" target="_blank">*A New Account of Some Parts of Guinea, and the Slave Trade*</a> (London, 1734), 162-91.
-- <a href="http://americainclass.org/sources/makingrevolution/rebellion/text6/jeffersondraftdecindep.pdf" target="_blank">"The anti-slavery clause in Jefferson's draft of the Declaration of Independence, 1776"</a>
-- <a href="http://www.brycchancarey.com/abolition/wilberforce2.htm" target="_blank">"William Wilberforce's 1789 Abolition Speech"</a>
-- Thomas Fowell Buxton, <a href="https://drive.google.com/file/d/1JzT3Q0Ug85Jhe7ZCXw_0Lv140TiHhUlP/view?usp=sharing" target="_blank">"An Abolitionist's Evidence," and Osei Bonsu and Eyo Honesty II, "African Opponents of Abolition"</a>, in *The Atlantic Slave Trade*, 2nd ed., David Northup, editor (Boston: Houghton Mifflin Company, 2002), 66-80, 174-77.
+**NO CLASS - Preparation for Thanksgiving Break**
 
 ---
 
@@ -388,15 +378,19 @@
 
 ### Monday, December 1
 
+**Anti-Slavery I - The Slave Trade**
 
-
-
-
-### Wednesday, December 3
+**Readings:**
+- <a href="https://www.loc.gov/resource/rbpe.14000200/?st=text" target="_blank">Germantown Friends' protest against slavery (1688)</a>
+- William Snelgrave, excerpts from <a href="https://drive.google.com/file/d/1JxWSrqyz1G1ZuGphf3qFt5iKTELkubto/view?usp=sharing" target="_blank">*A New Account of Some Parts of Guinea, and the Slave Trade*</a> (London, 1734), 162-91.
+- <a href="http://americainclass.org/sources/makingrevolution/rebellion/text6/jeffersondraftdecindep.pdf" target="_blank">"The anti-slavery clause in Jefferson's draft of the Declaration of Independence, 1776"</a>
+- <a href="http://www.brycchancarey.com/abolition/wilberforce2.htm" target="_blank">"William Wilberforce's 1789 Abolition Speech"</a>
+- Thomas Fowell Buxton, <a href="https://drive.google.com/file/d/1JzT3Q0Ug85Jhe7ZCXw_0Lv140TiHhUlP/view?usp=sharing" target="_blank">"An Abolitionist's Evidence," and Osei Bonsu and Eyo Honesty II, "African Opponents of Abolition"</a>, in *The Atlantic Slave Trade*, 2nd ed., David Northup, editor (Boston: Houghton Mifflin Company, 2002), 66-80, 174-77.
 
 **DUE: Interpretive Essay - "Race and Racism" #2**
 
-### Friday, December 5
+### Wednesday, December 3
+
 **Age of Revolution I**
 
 **Readings:**
@@ -405,12 +399,8 @@
 
 **Recommended Reading:** Egerton, et. al., *The Atlantic World*, 361-389.
 
+### Friday, December 5
 
----
-
-## Week 15 (December 8 - December 12)
-
-### Monday, December 8
 **Age of Revolution II**
 
 **Readings:**
@@ -419,8 +409,11 @@
 
 **Recommended Reading:** Egerton, et. al., *The Atlantic World*, 391-414.
 
+---
 
-### Wednesday, December 10
+## Week 15 (December 8 - December 12)
+
+### Monday, December 8
 
 **The Lasting Legacy?**
 
@@ -428,11 +421,17 @@
 - <a href="https://drive.google.com/file/d/1hieezjQhw62-r9gR6EuKMt4HaLR8WbAl/view?usp=sharing" target="_blank">"Thomas Jefferson Wrestles with Slavery, 1785," and Alexis de Tocqueville "Advocates Emancipation in the French West Indies, 1843,"</a> in *Major Problems in Atlantic History*, Alison Games and Adam Rothman, eds., (Belmont, CA: Wadsworth Cengage, 2008), 386-88 and 395-97.
 - <a href="https://drive.google.com/file/d/1x2Nwwghc07OqaCYr2XGt5b_CaYAhwJPz/view?usp=sharing" target="_blank">*Atlantic Lives*</a>, 194-211.
 
-### Friday, December 12
+***Course Evaluations: Please Bring Computers to Class***
+
+### Wednesday, December 10
 
 **Wrap-up**
 
 ***Course Evaluations: Please Bring Computers to Class***
+
+### Friday, December 12
+
+**Final Presentations**
 
 ---
 
