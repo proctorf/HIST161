@@ -67,12 +67,7 @@
 
 **Writing Workshop -- Explicating Evidence**
 
-**DUE: Full Draft of Primary Source Analysis #1**
-
-- <a href="https://drive.google.com/file/d/1w_swLqX8Q96TNxLqkUOhDnga0S3VmxOd/view?usp=sharing" target="_blank">"Jean de Lèry, Michel de Montaigne, Walter Ralegh, Increase Mather, and Paul le Jeune</a> from Major Problems in Atlantic History (Belmont, CA: Wadsworth, Cengage Learning, 2008), 97-104, 106-109.
-- Richard Hakluyt (the Younger), <a href="https://drive.google.com/file/d/1PMV1KWbDREJEqoKM5H_3p0oczNYIrbkd/view?usp=sharing" target="_blank">“Discourse of Western Planting (1584),”</a> from *Envisioning America: English Plans for the colonization of North America, 1580-1640,* Peter Mancall, ed. (Boston: Bedford/St. Martin’s, 1995), 45-50.
-
-- **Recommended Reading:** Egerton, et. al., *The Atlantic World*, 115-147
+**DUE: Full Draft of Primary Source Analysis #1 (bring a copy to class)**
 
 ---
 
