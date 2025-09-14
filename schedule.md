@@ -81,8 +81,6 @@
 - <a href="https://drive.google.com/file/d/1w_swLqX8Q96TNxLqkUOhDnga0S3VmxOd/view?usp=sharing" target="_blank">Jean de Lèry, Michel de Montaigne, Walter Ralegh, Increase Mather, and Paul le Jeune</a> from *Major Problems in Atlantic History* (Belmont, CA: Wadsworth, Cengage Learning, 2008), 97-104, 106-109.
 - Richard Hakluyt (the Younger), <a href="https://drive.google.com/file/d/1PMV1KWbDREJEqoKM5H_3p0oczNYIrbkd/view?usp=sharing" target="_blank">"Discourse of Western Planting (1584)"</a> from *Envisioning America: English Plans for the colonization of North America, 1580-1640,* Peter Mancall, ed. (Boston: Bedford/St. Martin's, 1995), 45-50.
 
-**DUE: Revision of Primary Source Analysis #1**
-
 ### Wednesday, September 17
 
 **English/French Views/Justifications for Colonialism**
@@ -99,6 +97,8 @@
 **More Readings**
 - “John Winthrop Defends the Right of Puritans to Settle on Indian Land, England, 1629,” *Historytools.davidvoelker.com* (Accessed 8/28/25) http://historytools.davidjvoelker.com/sources/winthrop-land.pdf
 - “The Taking of Indian Lands: Perspectives of Native Americans and European Americans, 1707-1765,” *National Humanities Center* http://nationalhumanitiescenter.org/pds/becomingamer/growth/text7/indianlands.pdf (accessed 08/28/25)
+
+- **DUE: Revision of Primary Source Analysis #1**
 
 ### Friday, September 19
 
