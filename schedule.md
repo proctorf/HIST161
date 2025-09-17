@@ -95,8 +95,8 @@
 - Is there anything about Locke's background that would help us understand "On Property"?
 
 **More Readings**
-- “[John Winthrop Defends the Right of Puritans to Settle on Indian Land, England, 1629](http://nationalhumanitiescenter.org/pds/becomingamer/growth/text7/indianlands.pdf),” *Historytools.davidvoelker.com* (Accessed 8/28/25) http://historytools.davidjvoelker.com/sources/winthrop-land.pdf
-- “The Taking of Indian Lands: Perspectives of Native Americans and European Americans, 1707-1765,” *National Humanities Center* http://nationalhumanitiescenter.org/pds/becomingamer/growth/text7/indianlands.pdf (accessed 08/28/25)
+- “[John Winthrop Defends the Right of Puritans to Settle on Indian Land, England, 1629](http://historytools.davidjvoelker.com/sources/winthrop-land.pdf)),” *Historytools.davidvoelker.com* (Accessed 8/28/25) (http://historytools.davidjvoelker.com/sources/winthrop-land.pdf)
+- “[The Taking of Indian Lands: Perspectives of Native Americans and European Americans, 1707-1765](http://nationalhumanitiescenter.org/pds/becomingamer/growth/text7/indianlands.pdf),” *National Humanities Center* (http://nationalhumanitiescenter.org/pds/becomingamer/growth/text7/indianlands.pdf) (accessed 08/28/25)
 
 - **DUE: Revision of Primary Source Analysis #1**
 
