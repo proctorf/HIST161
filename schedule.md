@@ -138,7 +138,7 @@
 
 **Readings:**
 - J.R McNeil, <a href="http://denison.idm.oclc.org/login?url=https://www-jstor-org.denison.idm.oclc.org/stable/40241611" target="_blank">"Yellow Jack and Geopolitics: Environment, Epidemics, and the Struggles for Empire in the American Tropics, 1640-1830"</a>, *Review (Fernand Braudel Center)* 27:4 (2004), 343-364.
-- TBD Primary Sources
+- Re-read pgs 127-133 from *Major Problems* and pg 26-28 from *Atlantic Lives* Assigned for last class.
 
 ---
 
