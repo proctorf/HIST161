@@ -149,7 +149,12 @@
 **Atlantic Economies -- Trade and Consumption I (Tobacco)**
 
 **Readings:**
+
+- <a href="https://www.laits.utexas.edu/poltheory/james/blaste/blaste.html" target="_blank">King James I of England, "A Counterblast to Tobacco, 1604,"</a> https://www.laits.utexas.edu/poltheory/james/blaste/blaste.html, accessed 09/26/25
+- <a href="https://edu.lva.virginia.gov/dbva/files/original/f785b5f92e56c7883d779acd01477d3d.pdf" target="_blank">“A Proclamation Concerning Tobacco, 1630</a>,” Document Bank of Virginia, accessed September 26, 2025, https://edu.lva.virginia.gov/dbva/items/show/194.
 - Marcy Norton and Daviken Studniki-Gizbert, <a href="https://drive.google.com/file/d/1VvAL4mhWIJ7Wcrwke4OHdqZinPq0iE7t/view?usp=sharing" target="_blank">"The Multinational Commodification of Tobacco, 1492-1650"</a>, in *The Atlantic World and Virginia, 1550-1624*, Peter C. Mancall, ed., (Chapel Hill: University of North Carolina Press, 2007), 251-273.
+
+https://www.laits.utexas.edu/poltheory/james/blaste/blaste.html
 
 ### Wednesday, October 1
 
