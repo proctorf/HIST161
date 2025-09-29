@@ -181,17 +181,17 @@ https://www.laits.utexas.edu/poltheory/james/blaste/blaste.html
 ## Week 7 (October 6 - October 10)
 
 ### Monday, October 6
-
-***NO CLASS***
-
-**DUE: Primary Source Analysis #2**
-
-### Wednesday, October 8
 **Atlantic Economies -- Trade and Consumption IV**
 
 **Readings:**
 - Londa Scheibinger, <a href="http://denison.idm.oclc.org/login?url=https://www.jstor.org/stable/4598938" target="_blank">"Agnotology and Exotic Abortifacients: The Cultural Production of Ignorance in the Eighteenth-Century Atlantic"</a>, *Proceedings of the American Philosophical Society*, 149:3. 316-343.
 
+
+### Wednesday, October 8
+
+***NO CLASS***
+
+**DUE: [Primary Source Analysis #2**](https://denison.instructure.com/courses/16231/assignments/153110)
 
 ### Friday, October 10
 **Atlantic Economies -- Trade and Consumption V**
