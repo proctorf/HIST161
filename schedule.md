@@ -189,16 +189,18 @@ https://www.laits.utexas.edu/poltheory/james/blaste/blaste.html
 
 ### Wednesday, October 8
 
-***NO CLASS***
-
-**DUE: [Primary Source Analysis #2**](https://denison.instructure.com/courses/16231/assignments/153110)
-
-### Friday, October 10
 **Atlantic Economies -- Trade and Consumption V**
 
 **Readings:**
 
 - David Hancock, <a href="http://denison.idm.oclc.org/login?url=https://www.jstor.org/stable/207043" target="_blank">"Commerce and Conversation in the Eighteenth-century Atlantic: The Invention of Madeira Wine"</a>, *The Journal of Interdisciplinary History* 29:2 (1998), 197-219.
+
+### Friday, October 10
+
+***NO CLASS***
+
+**DUE: [Primary Source Analysis #2**](https://denison.instructure.com/courses/16231/assignments/153110)
+
 ---
 
 ## Week 8 (October 13 - October 17)
