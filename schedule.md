@@ -218,9 +218,10 @@ https://www.laits.utexas.edu/poltheory/james/blaste/blaste.html
 
 ### Wednesday, October 15
 
-**Paper #1 "Atlantic Economies" -- Full Draft Due**
+**West Africa and the Slave Trade I I(Central Africa)**
 
-**Paper Writing Workshop**
+**Readings TBD**
+
 
 ### Friday, October 17
 
@@ -232,16 +233,16 @@ https://www.laits.utexas.edu/poltheory/james/blaste/blaste.html
 
 ### Monday, October 20
 
-**West Africa and the Slave Trade I I(Central Africa)**
-
-**Readings TBD**
-
-### Wednesday, October 22
-
 **West Africa and the Slave Trade III (The Bights)**
 
 **Readings:**
 - Randy Sparks, *The Two Princes of Calabar: An Eighteenth-Century Atlantic Odyssey* (Cambridge: Harvard University Press, 2004), 1-69.
+
+### Wednesday, October 22
+
+**Paper #1 "Atlantic Economies" -- Full Draft Due**
+
+**Paper Writing Workshop** [Full Draft Due in Class - submit here](https://denison.instructure.com/courses/16231/assignments/164133)
 
 ### Friday, October 24
 
@@ -251,7 +252,6 @@ https://www.laits.utexas.edu/poltheory/james/blaste/blaste.html
 - Marcus Rediker, <a href="http://www.jstor.org/stable/1918775" target="_blank">"'Under the Banner of King Death': The Social World of Anglo-American Pirates, 1716-1726"</a>, *The William and Mary Quarterly*, 3rd series, 38 (1981): 203-227.
 - <a href="https://drive.google.com/file/d/1E4m6DR-qKFbYy99tKIQvkk-fJcrehy1v/view?usp=sharing" target="_blank">*Atlantic Lives*</a>, 130-143, 42-45.
 
-**DUE: Paper #1 -- Final Draft**
 
 ---
 
@@ -262,6 +262,8 @@ https://www.laits.utexas.edu/poltheory/james/blaste/blaste.html
 ### Monday, October 27
 
 **Origins of Racism and Slavery in Atlantic World I**
+
+**DUE: Paper #1 -- Final Draft** [Submit your final draft here](https://denison.instructure.com/courses/16231/assignments/153108)
 
 **Readings:**
 - Stuart Schwartz, <a href="http://www.jstor.org/stable/1865902" target="_blank">"Indian Labor and New World Plantations: European Demands and Indian Responses in Northeastern Brazil"</a>, *AHR* 83:1 (1978): 43-64, 72-79.
