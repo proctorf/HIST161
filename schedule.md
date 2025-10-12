@@ -210,16 +210,15 @@ https://www.laits.utexas.edu/poltheory/james/blaste/blaste.html
 **West Africa and the Slave Trade I**
 
 **Readings:**
-- *Atlantic Lives*, 65-82. [Please note that two of the authors, Park and Falconbridge, appear in both readings. I apologize for any repetition, but the readings also cover different material]
-- <a href="https://drive.google.com/file/d/1yBL1jVToBc5YN-qGfTgs-_RsV2jL4CXk/view?usp=sharing" target="_blank">"Sources of slaves for the Royal African Company (1678)", "They voyage of the *Hannibal* carrying slaves from West Africa to Barbados (1693-94)", "Willem Bosman describes the Dutch trade for slaves on the West African coast (1704)", "Alexander Falconbridge described his experiences as a physician on slave ships (1788)", "Mungo Park describes taking slaves from the interior of Africa to the coast"</a>, *Africa and the West: A Documentary History*, 2nd ed, edited by William H Worger, Nancy L. Clark, and Edward A. Alpers (New York: Oxford University Press, 2010): 35-36, 43-51, 69-73 & 85-94 [Pay special attention to the sources I am asking you to read, there are snippets of others in the pdf you are not responsible for]
+- *Atlantic Lives*, 65-82. 
 
 **Recommended Reading:** Egerton, et. al., *The Atlantic World*, 185-202
 
 
 ### Wednesday, October 15
 
-**West Africa and the Slave Trade I I(Central Africa)**
-
+**West Africa and the Slave Trade II**
+- <a href="https://drive.google.com/file/d/1yBL1jVToBc5YN-qGfTgs-_RsV2jL4CXk/view?usp=sharing" target="_blank">"Sources of slaves for the Royal African Company (1678)", "They voyage of the *Hannibal* carrying slaves from West Africa to Barbados (1693-94)", "Willem Bosman describes the Dutch trade for slaves on the West African coast (1704)", "Alexander Falconbridge described his experiences as a physician on slave ships (1788)", "Mungo Park describes taking slaves from the interior of Africa to the coast"</a>, *Africa and the West: A Documentary History*, 2nd ed, edited by William H Worger, Nancy L. Clark, and Edward A. Alpers (New York: Oxford University Press, 2010): 35-36, 43-51, 69-73 & 85-94 [Pay special attention to the sources I am asking you to read, there are snippets of others in the pdf you are not responsible for]
 **Readings TBD**
 
 
