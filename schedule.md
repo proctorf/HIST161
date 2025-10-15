@@ -81,8 +81,6 @@
 - <a href="https://drive.google.com/file/d/1w_swLqX8Q96TNxLqkUOhDnga0S3VmxOd/view?usp=sharing" target="_blank">Jean de Lèry, Michel de Montaigne, Walter Ralegh, Increase Mather, and Paul le Jeune</a> from *Major Problems in Atlantic History* (Belmont, CA: Wadsworth, Cengage Learning, 2008), 97-104, 106-109.
 - Richard Hakluyt (the Younger), <a href="https://drive.google.com/file/d/1PMV1KWbDREJEqoKM5H_3p0oczNYIrbkd/view?usp=sharing" target="_blank">"Discourse of Western Planting (1584)"</a> from *Envisioning America: English Plans for the colonization of North America, 1580-1640,* Peter Mancall, ed. (Boston: Bedford/St. Martin's, 1995), 45-50.
 
-**DUE: Revision of Primary Source Analysis #1**
-
 ### Wednesday, September 17
 
 **English/French Views/Justifications for Colonialism**
@@ -97,8 +95,10 @@
 - Is there anything about Locke's background that would help us understand "On Property"?
 
 **More Readings**
-- “John Winthrop Defends the Right of Puritans to Settle on Indian Land, England, 1629,” *Historytools.davidvoelker.com* (Accessed 8/28/25) http://historytools.davidjvoelker.com/sources/winthrop-land.pdf
-- “The Taking of Indian Lands: Perspectives of Native Americans and European Americans, 1707-1765,” *National Humanities Center* http://nationalhumanitiescenter.org/pds/becomingamer/growth/text7/indianlands.pdf (accessed 08/28/25)
+- “[John Winthrop Defends the Right of Puritans to Settle on Indian Land, England, 1629](http://historytools.davidjvoelker.com/sources/winthrop-land.pdf)),” *Historytools.davidvoelker.com* (Accessed 8/28/25) (http://historytools.davidjvoelker.com/sources/winthrop-land.pdf)
+- “[The Taking of Indian Lands: Perspectives of Native Americans and European Americans, 1707-1765](http://nationalhumanitiescenter.org/pds/becomingamer/growth/text7/indianlands.pdf),” *National Humanities Center* (http://nationalhumanitiescenter.org/pds/becomingamer/growth/text7/indianlands.pdf) (accessed 08/28/25)
+
+- **DUE: Revision of Primary Source Analysis #1**
 
 ### Friday, September 19
 
@@ -138,7 +138,7 @@
 
 **Readings:**
 - J.R McNeil, <a href="http://denison.idm.oclc.org/login?url=https://www-jstor-org.denison.idm.oclc.org/stable/40241611" target="_blank">"Yellow Jack and Geopolitics: Environment, Epidemics, and the Struggles for Empire in the American Tropics, 1640-1830"</a>, *Review (Fernand Braudel Center)* 27:4 (2004), 343-364.
-- TBD Primary Sources
+- Re-read pgs 127-133 from *Major Problems* and pg 26-28 from *Atlantic Lives* Assigned for last class.
 
 ---
 
@@ -149,7 +149,12 @@
 **Atlantic Economies -- Trade and Consumption I (Tobacco)**
 
 **Readings:**
+
+- <a href="https://www.laits.utexas.edu/poltheory/james/blaste/blaste.html" target="_blank">King James I of England, "A Counterblast to Tobacco, 1604,"</a> https://www.laits.utexas.edu/poltheory/james/blaste/blaste.html, accessed 09/26/25
+- <a href="https://edu.lva.virginia.gov/dbva/files/original/f785b5f92e56c7883d779acd01477d3d.pdf" target="_blank">“A Proclamation Concerning Tobacco, 1630</a>,” Document Bank of Virginia, accessed September 26, 2025, https://edu.lva.virginia.gov/dbva/items/show/194.
 - Marcy Norton and Daviken Studniki-Gizbert, <a href="https://drive.google.com/file/d/1VvAL4mhWIJ7Wcrwke4OHdqZinPq0iE7t/view?usp=sharing" target="_blank">"The Multinational Commodification of Tobacco, 1492-1650"</a>, in *The Atlantic World and Virginia, 1550-1624*, Peter C. Mancall, ed., (Chapel Hill: University of North Carolina Press, 2007), 251-273.
+
+https://www.laits.utexas.edu/poltheory/james/blaste/blaste.html
 
 ### Wednesday, October 1
 
@@ -176,24 +181,26 @@
 ## Week 7 (October 6 - October 10)
 
 ### Monday, October 6
-
-***NO CLASS***
-
-**DUE: Primary Source Analysis #2**
-
-### Wednesday, October 8
 **Atlantic Economies -- Trade and Consumption IV**
 
 **Readings:**
 - Londa Scheibinger, <a href="http://denison.idm.oclc.org/login?url=https://www.jstor.org/stable/4598938" target="_blank">"Agnotology and Exotic Abortifacients: The Cultural Production of Ignorance in the Eighteenth-Century Atlantic"</a>, *Proceedings of the American Philosophical Society*, 149:3. 316-343.
 
 
-### Friday, October 10
+### Wednesday, October 8
+
 **Atlantic Economies -- Trade and Consumption V**
 
 **Readings:**
 
 - David Hancock, <a href="http://denison.idm.oclc.org/login?url=https://www.jstor.org/stable/207043" target="_blank">"Commerce and Conversation in the Eighteenth-century Atlantic: The Invention of Madeira Wine"</a>, *The Journal of Interdisciplinary History* 29:2 (1998), 197-219.
+
+### Friday, October 10
+
+***NO CLASS***
+
+**DUE: [Primary Source Analysis #2**](https://denison.instructure.com/courses/16231/assignments/153110)
+
 ---
 
 ## Week 8 (October 13 - October 17)
@@ -203,17 +210,17 @@
 **West Africa and the Slave Trade I**
 
 **Readings:**
-- *Atlantic Lives*, 65-82. [Please note that two of the authors, Park and Falconbridge, appear in both readings. I apologize for any repetition, but the readings also cover different material]
-- <a href="https://drive.google.com/file/d/1yBL1jVToBc5YN-qGfTgs-_RsV2jL4CXk/view?usp=sharing" target="_blank">"Sources of slaves for the Royal African Company (1678)", "They voyage of the *Hannibal* carrying slaves from West Africa to Barbados (1693-94)", "Willem Bosman describes the Dutch trade for slaves on the West African coast (1704)", "Alexander Falconbridge described his experiences as a physician on slave ships (1788)", "Mungo Park describes taking slaves from the interior of Africa to the coast"</a>, *Africa and the West: A Documentary History*, 2nd ed, edited by William H Worger, Nancy L. Clark, and Edward A. Alpers (New York: Oxford University Press, 2010): 35-36, 43-51, 69-73 & 85-94 [Pay special attention to the sources I am asking you to read, there are snippets of others in the pdf you are not responsible for]
+- *Atlantic Lives*, 65-82. 
 
 **Recommended Reading:** Egerton, et. al., *The Atlantic World*, 185-202
 
 
 ### Wednesday, October 15
 
-**Paper #1 "Atlantic Economies" -- Full Draft Due**
+**West Africa and the Slave Trade II**
+- <a href="https://drive.google.com/file/d/1yBL1jVToBC5YN-qGfTgs-_RsV2jL4CXk/view?usp=sharing" target="_blank">"Sources of slaves for the Royal African Company (1678)", "They voyage of the *Hannibal* carrying slaves from West Africa to Barbados (1693-94)", "Willem Bosman describes the Dutch trade for slaves on the West African coast (1704)", "Alexander Falconbridge described his experiences as a physician on slave ships (1788)", "Mungo Park describes taking slaves from the interior of Africa to the coast"</a>, *Africa and the West: A Documentary History*, 2nd ed, edited by William H Worger, Nancy L. Clark, and Edward A. Alpers (New York: Oxford University Press, 2010): 35-36, 43-51, 69-73 & 85-94 [Pay special attention to the sources I am asking you to read, there are snippets of others in the pdf you are not responsible for]
+**Readings TBD**
 
-**Paper Writing Workshop**
 
 ### Friday, October 17
 
@@ -225,16 +232,16 @@
 
 ### Monday, October 20
 
-**West Africa and the Slave Trade I I(Central Africa)**
-
-**Readings TBD**
-
-### Wednesday, October 22
-
 **West Africa and the Slave Trade III (The Bights)**
 
 **Readings:**
 - Randy Sparks, *The Two Princes of Calabar: An Eighteenth-Century Atlantic Odyssey* (Cambridge: Harvard University Press, 2004), 1-69.
+
+### Wednesday, October 22
+
+**Paper #1 "Atlantic Economies" -- Full Draft Due**
+
+**Paper Writing Workshop** [Full Draft Due in Class - submit here](https://denison.instructure.com/courses/16231/assignments/164133)
 
 ### Friday, October 24
 
@@ -244,7 +251,6 @@
 - Marcus Rediker, <a href="http://www.jstor.org/stable/1918775" target="_blank">"'Under the Banner of King Death': The Social World of Anglo-American Pirates, 1716-1726"</a>, *The William and Mary Quarterly*, 3rd series, 38 (1981): 203-227.
 - <a href="https://drive.google.com/file/d/1E4m6DR-qKFbYy99tKIQvkk-fJcrehy1v/view?usp=sharing" target="_blank">*Atlantic Lives*</a>, 130-143, 42-45.
 
-**DUE: Paper #1 -- Final Draft**
 
 ---
 
@@ -255,6 +261,8 @@
 ### Monday, October 27
 
 **Origins of Racism and Slavery in Atlantic World I**
+
+**DUE: Paper #1 -- Final Draft** [Submit your final draft here](https://denison.instructure.com/courses/16231/assignments/153108)
 
 **Readings:**
 - Stuart Schwartz, <a href="http://www.jstor.org/stable/1865902" target="_blank">"Indian Labor and New World Plantations: European Demands and Indian Responses in Northeastern Brazil"</a>, *AHR* 83:1 (1978): 43-64, 72-79.
