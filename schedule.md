@@ -235,7 +235,7 @@ https://www.laits.utexas.edu/poltheory/james/blaste/blaste.html
 **West Africa and the Slave Trade III (The Bights)**
 
 **Readings:**
-- Randy Sparks, *The Two Princes of Calabar: An Eighteenth-Century Atlantic Odyssey* (Cambridge: Harvard University Press, 2004), 1-69.
+- Randy Sparks, *[The Two Princes of Calabar: An Eighteenth-Century Atlantic Odyssey](Two_Princes.pdf)* (Cambridge: Harvard University Press, 2004), 1-69.
 
 ### Wednesday, October 22
 
