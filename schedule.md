@@ -239,17 +239,17 @@ https://www.laits.utexas.edu/poltheory/james/blaste/blaste.html
 
 ### Wednesday, October 22
 
-**Paper #1 "Atlantic Economies" -- Full Draft Due**
-
-**Paper Writing Workshop** [Full Draft Due in Class - submit here](https://denison.instructure.com/courses/16231/assignments/164133)
-
-### Friday, October 24
-
 **Piracy and Life at Sea**
 
 **Readings:**
 - Marcus Rediker, <a href="http://www.jstor.org/stable/1918775" target="_blank">"'Under the Banner of King Death': The Social World of Anglo-American Pirates, 1716-1726"</a>, *The William and Mary Quarterly*, 3rd series, 38 (1981): 203-227.
 - <a href="https://drive.google.com/file/d/1E4m6DR-qKFbYy99tKIQvkk-fJcrehy1v/view?usp=sharing" target="_blank">*Atlantic Lives*</a>, 130-143, 42-45.
+
+### Friday, October 24
+
+**Paper #1 "Atlantic Economies" -- Full Draft Due**
+
+**Paper Writing Workshop** [Full Draft Due in Class - submit here](https://denison.instructure.com/courses/16231/assignments/164133)
 
 
 ---
@@ -262,8 +262,6 @@ https://www.laits.utexas.edu/poltheory/james/blaste/blaste.html
 
 **Origins of Racism and Slavery in Atlantic World I**
 
-**DUE: Paper #1 -- Final Draft** [Submit your final draft here](https://denison.instructure.com/courses/16231/assignments/153108)
-
 **Readings:**
 - Stuart Schwartz, <a href="http://www.jstor.org/stable/1865902" target="_blank">"Indian Labor and New World Plantations: European Demands and Indian Responses in Northeastern Brazil"</a>, *AHR* 83:1 (1978): 43-64, 72-79.
 
@@ -273,6 +271,8 @@ https://www.laits.utexas.edu/poltheory/james/blaste/blaste.html
 
 **Readings:**
 - Russell R. Menard, <a href="https://drive.google.com/file/d/1PB9ICB666u3HOdXJnTqQ6jhX7Sp5ldsv/view?usp=sharing" target="_blank">"Transitions to African Slavery in British America, 1630-1730: Barbados, Virginia, and South Carolina"</a>, in *Slavery in America: A Reader and Guide*, Kenneth Morgan, ed., (Athens: University of Georgia Press, 2005), 28-46.
+
+**DUE: Paper #1 -- Final Draft** [Submit your final draft here](https://denison.instructure.com/courses/16231/assignments/153108)
 
 ### Friday, October 31
 
