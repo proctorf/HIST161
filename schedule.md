@@ -272,7 +272,6 @@ https://www.laits.utexas.edu/poltheory/james/blaste/blaste.html
 **Readings:**
 - Russell R. Menard, <a href="https://drive.google.com/file/d/1PB9ICB666u3HOdXJnTqQ6jhX7Sp5ldsv/view?usp=sharing" target="_blank">"Transitions to African Slavery in British America, 1630-1730: Barbados, Virginia, and South Carolina"</a>, in *Slavery in America: A Reader and Guide*, Kenneth Morgan, ed., (Athens: University of Georgia Press, 2005), 28-46.
 
-**DUE: Paper #1 -- Final Draft** [Submit your final draft here](https://denison.instructure.com/courses/16231/assignments/153108)
 
 ### Friday, October 31
 
@@ -280,6 +279,8 @@ https://www.laits.utexas.edu/poltheory/james/blaste/blaste.html
 
 **Readings:**
 - David Eltis, <a href="http://denison.idm.oclc.org/login?url=https://www.jstor.org/stable/2167060" target="_blank">"Europeans and the Rise and Fall of African Slavery in the Americas: An Interpretation"</a>, *The American Historical Review* (1993): 1399-1423.
+
+- **DUE: Paper #1 -- Final Draft** [Submit your final draft here](https://denison.instructure.com/courses/16231/assignments/153108)
 
 **Recommended Reading:** Egerton, et. al., *The Atlantic World*, 255-288.
 
