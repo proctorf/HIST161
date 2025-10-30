@@ -401,9 +401,19 @@ https://www.laits.utexas.edu/poltheory/james/blaste/blaste.html
 
 **Recommended Reading:** Egerton, et. al., *The Atlantic World*, 361-389.
 
-**DUE: Interpretive Essay - "Race and Racism" #2**
+
 
 ### Friday, December 5
+
+***NO CLASS***
+
+**DUE: Interpretive Essay - "Race and Racism" #2**
+
+---
+
+## Week 15 (December 8 - December 12)
+
+### Monday, December 8
 
 **Age of Revolution II**
 
@@ -413,11 +423,9 @@ https://www.laits.utexas.edu/poltheory/james/blaste/blaste.html
 
 **Recommended Reading:** Egerton, et. al., *The Atlantic World*, 391-414.
 
----
 
-## Week 15 (December 8 - December 12)
 
-### Monday, December 8
+### Wednesday, December 10
 
 **The Lasting Legacy?**
 
@@ -425,17 +433,11 @@ https://www.laits.utexas.edu/poltheory/james/blaste/blaste.html
 - <a href="https://drive.google.com/file/d/1hieezjQhw62-r9gR6EuKMt4HaLR8WbAl/view?usp=sharing" target="_blank">"Thomas Jefferson Wrestles with Slavery, 1785," and Alexis de Tocqueville "Advocates Emancipation in the French West Indies, 1843,"</a> in *Major Problems in Atlantic History*, Alison Games and Adam Rothman, eds., (Belmont, CA: Wadsworth Cengage, 2008), 386-88 and 395-97.
 - <a href="https://drive.google.com/file/d/1x2Nwwghc07OqaCYr2XGt5b_CaYAhwJPz/view?usp=sharing" target="_blank">*Atlantic Lives*</a>, 194-211.
 
-***Course Evaluations: Please Bring Computers to Class***
-
-### Wednesday, December 10
+### Friday, December 12
 
 **Wrap-up**
 
 ***Course Evaluations: Please Bring Computers to Class***
-
-### Friday, December 12
-
-**Final Presentations**
 
 ---
 
