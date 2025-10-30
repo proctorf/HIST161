@@ -275,28 +275,32 @@ https://www.laits.utexas.edu/poltheory/james/blaste/blaste.html
 
 ### Friday, October 31
 
-**Origins of Racism and Slavery in Atlantic World III -- Why not Europeans?**
+***NO CLASS***
 
-**Readings:**
-- David Eltis, <a href="http://denison.idm.oclc.org/login?url=https://www.jstor.org/stable/2167060" target="_blank">"Europeans and the Rise and Fall of African Slavery in the Americas: An Interpretation"</a>, *The American Historical Review* (1993): 1399-1423.
+**DUE: Paper #1 -- Final Draft** [Submit your final draft here](https://denison.instructure.com/courses/16231/assignments/153108)
 
-- **DUE: Paper #1 -- Final Draft** [Submit your final draft here](https://denison.instructure.com/courses/16231/assignments/153108)
 
-**Recommended Reading:** Egerton, et. al., *The Atlantic World*, 255-288.
 
 ---
 
 ## Week 11 (November 3 - November 7)
 
 ### Monday, November 3
-
-**Origins of Racism and Slavery in Atlantic World IV -- Ibero-America**
+**Origins of Racism and Slavery in Atlantic World III -- Why not Europeans?**
 
 **Readings:**
+- David Eltis, <a href="http://denison.idm.oclc.org/login?url=https://www.jstor.org/stable/2167060" target="_blank">"Europeans and the Rise and Fall of African Slavery in the Americas: An Interpretation"</a>, *The American Historical Review* (1993): 1399-1423.
+
+**Recommended Reading:** Egerton, et. al., *The Atlantic World*, 255-288.
+
+
+### Wednesday, November 5
+**Origins of Racism and Slavery in Atlantic World IV -- Ibero-America**
 - María Elena Martínez, <a href="https://drive.google.com/file/d/1QzHLJ2WCwAQtZG0O-jZ9Lg0bdWh7UCd7/view?usp=sharing" target="_blank">"The Black Blood of New Spain: *Limpieza de Sangre*, Racial Violence, and Gendered Power in Early Colonial Mexico"</a>, *William and Mary Quarterly*, 3rd Series, 61 (2004): 479-95, 505-520.
 - Review the Cà da Mosto reading, *Atlantic Lives, 7-11*
 
-### Wednesday, November 5
+
+### Friday, November 7
 
 **Origins of Racism and Slavery in Atlantic World V -- Virginia**
 
@@ -305,25 +309,25 @@ https://www.laits.utexas.edu/poltheory/james/blaste/blaste.html
 - <a href="https://www.encyclopediavirginia.org/general_court_responds_to_runaway_servants_and_slaves_1640" target="_blank">"General Court Responds to Runaway Servants and Slaves (1640)"</a> *Minutes of the Council and General Court of Colonial Virginia*
 - <a href="https://drive.google.com/file/d/1gdVZ9_x8pRyuJwYR0iqUdfNb_FFUwqBN/view?usp=sharing" target="_blank">"Statutes from the State of Virginia, 1630-1691"</a> in *Women and Slavery in America: A Documentary History*, Catherine Lewis and J. Richard Lewis (Fayetteville, AR: University of Arkansas Press, 2011), 2-4.
 
-### Friday, November 7
-
-**Origins of Racism VI: Indians and Race in Spanish America**
-
-**Readings:**
-- Jorge Cañizares-Esguerra, <a href="https://drive.google.com/file/d/1oYF5JB6BP5_-BbpyUopfXQyEFQfdsMr7/view?usp=sharing" target="_blank">"New World, New Stars: Patriotic Astrology and the Invention of Indian and Creole Bodies in Colonial Spanish America, 1600-1650 [abridged]"</a>, *The American Historical Review*, 104:1 (Feb 1999).
 
 ---
 
 ## Week 12 (November 10 - November 14)
 
 ### Monday, November 10
+**Origins of Racism VI: Indians and Race in Spanish America**
+**Readings:**
+- Jorge Cañizares-Esguerra, <a href="https://drive.google.com/file/d/1oYF5JB6BP5_-BbpyUopfXQyEFQfdsMr7/view?usp=sharing" target="_blank">"New World, New Stars: Patriotic Astrology and the Invention of Indian and Creole Bodies in Colonial Spanish America, 1600-1650 [abridged]"</a>, *The American Historical Review*, 104:1 (Feb 1999).
 
+
+### Wednesday, November 12
 **Origins of Racism VII: Indians and Race in British North America**
 
 **Readings:**
 - Joyce Chaplin, <a href="http://www.jstor.org/stable/2953318" target="_blank">"Natural Philosophy and an Early Racial Idiom in North America: Comparing English and Indian Bodies"</a>, *William and Mary Quarterly*, 3rd Series, 54:1 (Jan. 1997): 229-252.
 
-### Wednesday, November 12
+
+### Friday, November 14
 
 **Origins of Racism VIII: Interracial Marriage and Sexuality**
 
@@ -331,8 +335,11 @@ https://www.laits.utexas.edu/poltheory/james/blaste/blaste.html
 - <a href="https://drive.google.com/file/d/1whUkvTCUunXhejHu1etmLy4EHBIUB39b/view?usp=sharing" target="_blank">*Atlantic Lives*</a>, 160-175.
 - *Casta Paintings from New Spain*
 
-### Friday, November 14
+---
 
+## Week 13 (November 17 - November 21)
+
+### Monday, November 17
 **Atlantic Slavery -- Plantation Complex and Cultures of Slavery**
 
 **Readings:**
@@ -341,12 +348,8 @@ https://www.laits.utexas.edu/poltheory/james/blaste/blaste.html
 
 **Recommended Reading:** Egerton, et. al., *The Atlantic World*, 202-213
 
----
 
-## Week 13 (November 17 - November 21)
-
-### Monday, November 17
-
+### Wednesday, November 19
 **European Migrations**
 
 **Readings:**
@@ -355,7 +358,8 @@ https://www.laits.utexas.edu/poltheory/james/blaste/blaste.html
 
 **Recommended Reading:** Egerton, et. al., *The Atlantic World*, 161-183.
 
-### Wednesday, November 19
+
+### Friday, November 21
 
 **18th-century Imperial Contests**
 
@@ -363,10 +367,6 @@ https://www.laits.utexas.edu/poltheory/james/blaste/blaste.html
 - J.H Elliott, <a href="https://drive.google.com/file/d/1tpGwhD6CxMMES7HC6vGRoXG8r2CPdgxd/view?usp=sharing" target="_blank">*Empires of the Atlantic World: Britain and Spain in America, 1492-1830*</a> (New Haven: Yale Univ. Press, 2006), 292-324.
 
 **Recommended Reading:** Egerton, et. al., *The Atlantic World*, 305-357.
-
-### Friday, November 21
-
-**NO CLASS - Preparation for Thanksgiving Break**
 
 ---
 
@@ -391,8 +391,6 @@ https://www.laits.utexas.edu/poltheory/james/blaste/blaste.html
 - <a href="http://www.brycchancarey.com/abolition/wilberforce2.htm" target="_blank">"William Wilberforce's 1789 Abolition Speech"</a>
 - Thomas Fowell Buxton, <a href="https://drive.google.com/file/d/1JzT3Q0Ug85Jhe7ZCXw_0Lv140TiHhUlP/view?usp=sharing" target="_blank">"An Abolitionist's Evidence," and Osei Bonsu and Eyo Honesty II, "African Opponents of Abolition"</a>, in *The Atlantic Slave Trade*, 2nd ed., David Northup, editor (Boston: Houghton Mifflin Company, 2002), 66-80, 174-77.
 
-**DUE: Interpretive Essay - "Race and Racism" #2**
-
 ### Wednesday, December 3
 
 **Age of Revolution I**
@@ -402,6 +400,8 @@ https://www.laits.utexas.edu/poltheory/james/blaste/blaste.html
 - <a href="https://drive.google.com/file/d/1x11wlyj86mKo9AyO5yVVG5QA5C_NYGrl/view?usp=sharing" target="_blank">*Atlantic Lives*</a>, 177-186, 188-192.
 
 **Recommended Reading:** Egerton, et. al., *The Atlantic World*, 361-389.
+
+**DUE: Interpretive Essay - "Race and Racism" #2**
 
 ### Friday, December 5
 
