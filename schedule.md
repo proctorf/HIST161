@@ -334,6 +334,7 @@ https://www.laits.utexas.edu/poltheory/james/blaste/blaste.html
 **Readings:**
 - <a href="https://drive.google.com/file/d/1whUkvTCUunXhejHu1etmLy4EHBIUB39b/view?usp=sharing" target="_blank">*Atlantic Lives*</a>, 160-175.
 - *Casta Paintings from New Spain*
+  <!-- there is a reading in Colonial Lives, pg 104-08, that might go along with the readings above.  I also really don't like the Marie d'Incarnacion reading here, should cut it.  Need to find sources on regions outside British Atlatic.-->
 
 ---
 
@@ -345,6 +346,7 @@ https://www.laits.utexas.edu/poltheory/james/blaste/blaste.html
 **Readings:**
 - <a href="https://drive.google.com/file/d/1woj6qVGTiUAAts7E6f51zu7xbgqWcHpm/view?usp=sharing" target="_blank">*Atlantic Lives*</a>, 84-99.
 - Stuart Schwartz, <a href="https://drive.google.com/file/d/1AzSKgUpXik8m_RpKTsUi6e7RlIYhiJX7/view?usp=sharing" target="_blank">"Sugar Plantation Labor and Slave Life"</a>, in *Slaves Peasants, and Rebels: Reconsidering Brazilian Slavery* (Urbana; Univ. of Illinois Press, 1996), 39-59. (**Please be sure to read the two primary sources included in the Appendices**)
+  <!-- In the future, I think I would like to pull in the reading on Brazilain plantations pg 108-113-->
 
 **Recommended Reading:** Egerton, et. al., *The Atlantic World*, 202-213
 
