@@ -388,7 +388,7 @@ https://www.laits.utexas.edu/poltheory/james/blaste/blaste.html
 
 **Readings:**
 - <a href="https://www.loc.gov/resource/rbpe.14000200/?st=text" target="_blank">Germantown Friends' protest against slavery (1688)</a>
-- William Snelgrave, excerpts from <a href="https://drive.google.com/file/d/1JxWSrqyz1G1ZuGphf3qFt5iKTELkubto/view?usp=sharing" target="_blank">*A New Account of Some Parts of Guinea, and the Slave Trade*</a> (London, 1734), 162-91.
+- William Snelgrave, excerpts from <a href="https://macmillan.yale.edu/glc/voyage-through-worlds-slave-trade-robert-harms-excerpt" target="_blank">*A New Account of Some Parts of Guinea, and the Slave Trade*</a> (London, 1734), 162-91.
 - <a href="http://americainclass.org/sources/makingrevolution/rebellion/text6/jeffersondraftdecindep.pdf" target="_blank">"The anti-slavery clause in Jefferson's draft of the Declaration of Independence, 1776"</a>
 - <a href="http://www.brycchancarey.com/abolition/wilberforce2.htm" target="_blank">"William Wilberforce's 1789 Abolition Speech"</a>
 - Thomas Fowell Buxton, <a href="https://drive.google.com/file/d/1JzT3Q0Ug85Jhe7ZCXw_0Lv140TiHhUlP/view?usp=sharing" target="_blank">"An Abolitionist's Evidence," and Osei Bonsu and Eyo Honesty II, "African Opponents of Abolition"</a>, in *The Atlantic Slave Trade*, 2nd ed., David Northup, editor (Boston: Houghton Mifflin Company, 2002), 66-80, 174-77.
