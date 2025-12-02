@@ -443,4 +443,4 @@ https://www.laits.utexas.edu/poltheory/james/blaste/blaste.html
 
 ---
 
-## Final Paper Due: TBD
+***Final Paper Due: Sun. Dec 14 @ 4pm.***
